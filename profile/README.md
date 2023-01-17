@@ -58,3 +58,8 @@ Open Source FIX Protocol library implemented in Go
 <br>
 <img width="196" alt="Sponsored by Connamara" src="https://user-images.githubusercontent.com/3065126/212457799-abd6408a-972d-4168-9feb-b80ce1f1ec83.png">
 
+## Other QuickFIX Implementaions
+Looking for QuickFIX in another programming language? Try these official repos-
+- [Java](https://github.com/quickfix-j/quickfixj)
+- [C++](https://github.com/quickfix/quickfix)
+- [C# / .NET](https://github.com/connamara/quickfixn)
