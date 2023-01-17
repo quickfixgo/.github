@@ -54,12 +54,12 @@ Open Source FIX Protocol library implemented in Go
 
 <p>In addition to offering QuickFIX support, Connamara delivers Made-To-Measure Trading Solutions by bridging the gap between buy and build. By using internally developed trading platform components, Connamara delivers the best of off-the-shelf ISV solutions and custom application development. Coupled with Connamara’s unique licensing model, trading firms can get the best of both build and buy.</p>
 
-<br>
-<br>
-<img width="196" alt="Sponsored by Connamara" src="https://user-images.githubusercontent.com/3065126/212457799-abd6408a-972d-4168-9feb-b80ce1f1ec83.png">
-
 ## Other QuickFIX Implementations
 Looking for QuickFIX in another programming language? Try these official repos-
 - [Java](https://github.com/quickfix-j/quickfixj)
 - [C++](https://github.com/quickfix/quickfix)
-- [C# / .NET](https://github.com/connamara/quickfixn)
+- [.NET](https://github.com/connamara/quickfixn)
+
+<br>
+<br>
+<img width="196" alt="Sponsored by Connamara" src="https://user-images.githubusercontent.com/3065126/212457799-abd6408a-972d-4168-9feb-b80ce1f1ec83.png">
