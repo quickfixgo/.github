@@ -19,7 +19,7 @@ Open Source FIX Protocol library implemented in Go
   <li>Integrated support for SSL communicaitons</li>
   <li>Automated unit and acceptance tests</li>
   <li><a href="https://github.com/quickfixgo/examples">Example applications</a></li>
-  <li><a href="{{ site.baseurl }}/support">Commercial Support available</a></li>
+  <li><a href="https://connamara.com">Commercial Support available</a></li>
 </ul>
 
 
