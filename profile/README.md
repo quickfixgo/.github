@@ -61,4 +61,4 @@ Looking for QuickFIX in another programming language? Try these official repos-
 - [.NET](https://github.com/connamara/quickfixn)
 
 <br>
-<img width="196" alt="Sponsored by Connamara" src="https://user-images.githubusercontent.com/3065126/212457799-abd6408a-972d-4168-9feb-b80ce1f1ec83.png">
+<img width="220" alt="Sponsored by Connamara" src="https://user-images.githubusercontent.com/3065126/282546730-16220337-4960-48ae-8c2f-760fbaedb135.png">
